@@ -1,0 +1,29 @@
+{
+    "inventory": [{
+            "Codigo": "119055A",
+            "Description": "Foil Pouch Silver Bottom / PGA",
+            "Supplier": "Amcor",
+            "UM": "Rolls",
+            "umQty": 1328,
+            "UMConv": "MSI",
+            "umconvQty": 849920,
+            "Dozens": 70826,
+            "LeadTime": "2 weeks",
+            "ReorderAmount": 500,
+            "groupOrder": 1
+        },
+        {
+            "Codigo": "L130531",
+            "Description": "L130531:Racetrack Plaing PGA - G",
+            "Supplier": "Weber",
+            "UM": "Boxes",
+            "umQty": 50,
+            "UMConv": "Tags",
+            "umconvQty": 12000,
+            "Dozens": 1000,
+            "LeadTime": "",
+            "ReorderAmount": 0,
+            "groupOrder": 2
+        }
+    ]
+}
