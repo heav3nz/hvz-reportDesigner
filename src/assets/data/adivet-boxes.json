@@ -1,0 +1,228 @@
+{
+
+    "stockBoxesBySupplier": [{
+            "equivalenceId": null,
+            "mqsupID": 19172,
+            "description": "APOLLO: Pantone  / NEW BX",
+            "oldSup": 16200.0000,
+            "ctp": 0.0000,
+            "grandTotal": 16200.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19173,
+            "description": "CC: Pantone 485c / NEW BX ",
+            "oldSup": 0.0000,
+            "ctp": 28640.0000,
+            "grandTotal": 28640.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19174,
+            "description": "CP: Pantone 108C / NEW BX ",
+            "oldSup": 19200.0000,
+            "ctp": 26240.0000,
+            "grandTotal": 45440.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19175,
+            "description": "MO:Pantone NEW BX",
+            "oldSup": 0.0000,
+            "ctp": 5940.0000,
+            "grandTotal": 5940.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19177,
+            "description": "MORROCO: Pantone  / NEW NL BX",
+            "oldSup": 7200.0000,
+            "ctp": 0.0000,
+            "grandTotal": 7200.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19176,
+            "description": "MORROCO; Pantone / NE PGR BX",
+            "oldSup": 5400.0000,
+            "ctp": 0.0000,
+            "grandTotal": 5400.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19178,
+            "description": "NL: Pantone 572C / NEW BX ",
+            "oldSup": 0.0000,
+            "ctp": 29520.0000,
+            "grandTotal": 29520.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19179,
+            "description": "ORANGE Pantone ",
+            "oldSup": 0.0000,
+            "ctp": 360.0000,
+            "grandTotal": 360.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19180,
+            "description": "PB: Pantone 150c / NEW BX ",
+            "oldSup": 12000.0000,
+            "ctp": 0.0000,
+            "grandTotal": 12000.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19181,
+            "description": "PGA: Pantone 2573C / NEW BX ",
+            "oldSup": 0.0000,
+            "ctp": 81180.0000,
+            "grandTotal": 81180.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19182,
+            "description": "PGR: Pantone 2573C / NEW BX ",
+            "oldSup": 0.0000,
+            "ctp": 48960.0000,
+            "grandTotal": 48960.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19183,
+            "description": "PM: Pantone 27 Lt. Violet / NEW BX ",
+            "oldSup": 0.0000,
+            "ctp": 76080.0000,
+            "grandTotal": 76080.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19184,
+            "description": "PX: Pantone Cool Gray 5 / NEW BX",
+            "oldSup": 0.0000,
+            "ctp": 28560.0000,
+            "grandTotal": 28560.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        },
+        {
+            "equivalenceId": null,
+            "mqsupID": 19185,
+            "description": "SK: Pantone 306 Lt. Blue / NEW BX ",
+            "oldSup": 0.0000,
+            "ctp": 57160.0000,
+            "grandTotal": 57160.0000,
+            "inTransit": null,
+            "comments": null,
+            "groupOrder": 0,
+            "priorityGroup": 0
+        }
+    ],
+    "stockBoxesADIVET": [{
+            "equivalenceId": 321,
+            "mqsupID": 19167,
+            "description": "ADIVET NEW BX - G",
+            "totalMSI": 720.0000,
+            "groupOrder": 0,
+            "priorityGroup": 0,
+            "comments": null
+        },
+        {
+            "equivalenceId": 322,
+            "mqsupID": 19168,
+            "description": "ADIVET NEW BX - MO",
+            "totalMSI": 5400.0000,
+            "groupOrder": 0,
+            "priorityGroup": 0,
+            "comments": null
+        },
+        {
+            "equivalenceId": 323,
+            "mqsupID": 19169,
+            "description": "ADIVET NEW BX - NL",
+            "totalMSI": 2520.0000,
+            "groupOrder": 0,
+            "priorityGroup": 0,
+            "comments": null
+        },
+        {
+            "equivalenceId": 324,
+            "mqsupID": 19170,
+            "description": "ADIVET NEW BX - PGA",
+            "totalMSI": 2520.0000,
+            "groupOrder": 0,
+            "priorityGroup": 0,
+            "comments": null
+        },
+        {
+            "equivalenceId": 325,
+            "mqsupID": 19171,
+            "description": "ADIVET NEW BX - PX",
+            "totalMSI": 1440.0000,
+            "groupOrder": 0,
+            "priorityGroup": 0,
+            "comments": null
+        }
+    ],
+    "stockBoxesACUDERM": [{
+        "equivalenceId": 320,
+        "mqsupID": 19166,
+        "description": "ACUDERM BX",
+        "totalMSI": 1300.0000,
+        "groupOrder": 0,
+        "priorityGroup": 0,
+        "comments": null
+    }]
+
+}

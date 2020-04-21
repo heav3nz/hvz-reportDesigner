@@ -21,7 +21,7 @@ export class AppComponent implements OnInit {
     this.designer = new Stimulsoft.Designer.StiDesigner(this.options, 'StiDesigner', false);
 
     this.designer.report = new Stimulsoft.Report.StiReport();
-    this.designer.report.loadFile('../reports/Inventory.mrt');
+    this.designer.report.loadFile('../reports/CTPResume.mrt');
     this.designer.renderHtml('designer');
     }
 }
